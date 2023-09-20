@@ -24,7 +24,6 @@ class controller extends database {
             }
 
             $result = [];
-            //if where condition is exist
             $sql = '';
             $query = '';
             if($where){
