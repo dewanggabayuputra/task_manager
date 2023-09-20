@@ -1,7 +1,7 @@
 # task_manager
 # setup dabase and server
 import database using sql file named task_manager.sql
-running apache
+run apache and mysql
 
 # description
 This application using for entry task, update status of task, and delete task. 
