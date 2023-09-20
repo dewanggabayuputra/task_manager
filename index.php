@@ -36,7 +36,7 @@
 				</div>
 				<div class="form-group mx-sm-3 mb-2">
 					<select id="searchStatus" name="searchStatus" class="form-control">
-						<option value="">...</option>
+						<option value="" disabled selected hidden>Status</option>
 						<option value="Pending">Pending</option>
 						<option value="In Progress">In Progress</option>
 						<option value="Completed">Completed</option>
